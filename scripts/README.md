@@ -29,7 +29,7 @@ This command will caption all the `.jpg` images in the specified directory using
 | `--top-k`          | Top-k sampling value                                       | None                                                                                                                    |
 | `--max-new-tokens` | Maximum length of the generated caption (in tokens)        | 256                                                                                                                     |
 | `--num-workers`    | Number of workers loading images in parallel               | 4                                                                                                                       |
-| `--model`          | Pre-trained model to use                                   | [fancyfeast/llama-joycaption-alpha-two-hf-llava](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-hf-llava) |
+| `--model`          | Pre-trained model to use                                   | fancyfeast/llama-joycaption-beta-one-hf-llava (https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llav) |
 
 
 
